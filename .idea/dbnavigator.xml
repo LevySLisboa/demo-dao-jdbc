@@ -21,7 +21,7 @@
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files>
-      <object connection-id="34be0b8b-d076-4eba-bc84-7073147641c7" object-ref="schemas/coursejdbc/tables/seller" />
+      <object connection-id="34be0b8b-d076-4eba-bc84-7073147641c7" object-ref="schemas/coursejdbc/tables/department" />
     </open-files>
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
